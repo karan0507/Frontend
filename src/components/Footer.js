@@ -26,7 +26,7 @@ const Footer = () => {
           <Col md={4}>
             <h5>Contact Us</h5>
             <p>
-              <i className="bi bi-person-circle"></i> support@foodie.com<br />
+              <i className="bi bi-person-circle"></i> support@petpooja.com<br />
               <i className="bi bi-telephone"></i> (123) 456-7890<br />
               <i className="bi bi-geo-alt"></i> 123 Foodie St, Foodland, FL 12345
             </p>
